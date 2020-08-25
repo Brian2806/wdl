@@ -1,0 +1,21 @@
+h1{
+text-align: center;
+}
+
+p, ul > li {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+img{
+	height: 475px;
+	width:499px;
+	position: relative;
+
+}
+
+map > #coffee {
+	height: 100px;
+	color:red;
+	width:100px;
+}
